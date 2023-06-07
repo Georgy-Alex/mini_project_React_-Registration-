@@ -1,0 +1,68 @@
+header h1 {
+  padding: 40px;
+  background-color: rgb(91, 96, 107);
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+main h2 {
+  margin-bottom: 50px;
+}
+
+.item {
+  display: block;
+  width: 250px;
+  height: 25px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.btnRegist {
+  padding: 7px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(182, 144, 217);
+}
+
+.btnRegist:hover {
+  cursor: pointer;
+  background-color: rgb(111, 80, 141);
+}
+
+.btnActive {
+  margin: 25px 0px 0px 100px;
+  padding: 7px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(182, 144, 217);
+}
+
+.menu {
+  margin: 25px 0px 0px 100px;
+}
+
+.menu li{
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.link{
+  text-decoration: none;
+  color: rgb(21, 31, 53);
+}
+
+
+.selects {
+  display: block;
+  width: 250px;
+  height: 25px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+}
